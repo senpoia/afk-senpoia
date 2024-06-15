@@ -1,1 +1,1 @@
-# afk-senpoia
+# AFK-Discord
